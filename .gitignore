@@ -1,0 +1,25 @@
+# Env files
+.env
+.env.*
+**/.env
+
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Next.js
+next/
+**/.next/
+
+# Build outputs
+build/
+dist/
+artifacts/
+**/build/
+**/dist/
+**/artifacts/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
